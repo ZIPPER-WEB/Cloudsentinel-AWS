@@ -203,8 +203,6 @@ reports/*.html
 
 ## Screenshots
 
-## Screenshots
-
 ### CloudSentinel Dashboard
 
 ![CloudSentinel Dashboard](docs/dashboard.png)
@@ -212,10 +210,6 @@ reports/*.html
 ### HTML Security Report
 
 ![CloudSentinel HTML Report](docs/html-report.png)
-
-## Architecture
-
-![CloudSentinel Architecture](docs/architecture.png)
 
 Add sanitized screenshots before publishing:
 
