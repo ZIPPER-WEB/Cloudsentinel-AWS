@@ -218,7 +218,6 @@ Add sanitized screenshots before publishing:
 ## Author
 
 **Raghav Singh**  
-AWS Networking & Cloud Security Portfolio Project
 
 ---
 
