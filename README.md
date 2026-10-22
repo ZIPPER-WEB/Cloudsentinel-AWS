@@ -203,6 +203,20 @@ reports/*.html
 
 ## Screenshots
 
+## Screenshots
+
+### CloudSentinel Dashboard
+
+![CloudSentinel Dashboard](docs/dashboard.png)
+
+### HTML Security Report
+
+![CloudSentinel HTML Report](docs/html-report.png)
+
+## Architecture
+
+![CloudSentinel Architecture](docs/architecture.png)
+
 Add sanitized screenshots before publishing:
 
 - `docs/screenshots/dashboard-overview.png` — inventory metrics
